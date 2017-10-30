@@ -2,7 +2,7 @@
 Broadcaster and Viewer of Webcam Feed to Flash Media Server.
 
 Requirments:
-Flash Media Server either Local or outside. 
+Flash Media Server either Local or internet. 
 
 Action Script 3.0
 Broadcaster:
